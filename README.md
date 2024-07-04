@@ -3,6 +3,7 @@ Shop Invoice Builder in Java
 
 *Note:
 - jar file is used to run the project but java must intall in the system.
+- Open the project on NetBeans IDE to edit the project.
 
 * Seller Have to Enter
   - [1] Customer Name
