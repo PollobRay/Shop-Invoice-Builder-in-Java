@@ -1,7 +1,7 @@
 # Shop-Invoice-Builder-in-Java
 Shop Invoice Builder in Java
 
-* Note:
+# Note:
 * jar file is used to run the project but java must intall in the system.
 
 * Seller Have to Enter
