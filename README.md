@@ -1,14 +1,18 @@
 # Shop-Invoice-Builder-in-Java
 Shop Invoice Builder in Java
 
+*Note:
+- jar file is used to run the project but java must intall in the system.
+- Open the project on NetBeans IDE to edit the project.
+
 * Seller Have to Enter
-* [1] Customer Name
-* [2] Name of Product
-* [3] Received Money
-* [4] Price of the product 
-* [5] Press Enter
-* [6] Back Money will show.
-* [7] Press 'Save as PDF' to generate the invoice as pdf
+  - [1] Customer Name
+  - [2] Name of Product
+  - [3] Received Money
+  - [4] Price of the product 
+  - [5] Press Enter
+  - [6] Back Money will show.
+  - [7] Press 'Save as PDF' to generate the invoice as pdf
 
   ![1](https://github.com/PollobRay/Shop-Invoice-Builder-in-Java/assets/96225924/5900b31d-4c22-4a01-9524-393161930cb4)
 
